@@ -93,7 +93,7 @@ export const projects = [
     title: 'Ligma Social - social networking app',
     des: 'Ligma Social App built using MERN, Redux Toolkit and Socket IO',
     img: '/p3.svg',
-    iconLists: ['/mongoDB.sv', '/express.svg', '/re.svg', '/node.svg'],
+    iconLists: ['/mongoDB.svg', '/express.svg', '/re.svg', '/node.svg'],
     link: 'https://ligmasocial.netlify.app/',
   },
   {
