@@ -42,7 +42,7 @@ const Approach = () => {
           {/* Radial gradient for the cute fade */}
         </Card>
         <Card
-          title='Development & Launch'
+          title='Deployment & Launch'
           icon={<AceternityIcon order='Phase 3' />}
           des="This is where the magic happens! Based on the approved design, 
           I'll translate everything into functional code, building your website
@@ -85,7 +85,6 @@ const Card = ({
           'linear-gradient(90deg, rgba(4,7,29,1) 0%, rgba(12,14,35,1) 100%)',
       }}
     >
-      {/* change to h-10 w-10 , add opacity-30  */}
       <Icon className='absolute h-10 w-10 -top-3 -left-3 dark:text-white text-black opacity-30' />
       <Icon className='absolute h-10 w-10 -bottom-3 -left-3 dark:text-white text-black opacity-30' />
       <Icon className='absolute h-10 w-10 -top-3 -right-3 dark:text-white text-black opacity-30' />
