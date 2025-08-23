@@ -73,7 +73,7 @@ const Header = ({ children }: { children?: React.ReactNode }) => {
         <div className='relative hidden md:block cursor-pointer'>
           <motion.button whileHover={{ scale: 1 }} whileTap={{ scale: 0.9 }}>
             <Link
-              href='https://drive.google.com/file/d/10HCQB2kEhBeRC5pMe6-xOhXpR8AxaoIe/view?usp=sharing'
+              href='https://docs.google.com/document/d/1pj3ki7Y6f-AH92nS-RqzrOrJtbJCjDCms7EuiWQDUJU/edit?usp=sharing'
               target='_blank'
             >
               <div className='absolute hidden md:block mt-2 items-center justify-between bg-gray-200 rounded-xl p-2 tracking-wide text-muted-foreground dark:bg-transparent dark:bg-clip-text hover-effect cursor-pointer hover:animate-pulse'>
